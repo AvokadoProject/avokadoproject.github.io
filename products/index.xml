@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Продукты on Avokado</title>
+    <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/</link>
+    <description>Recent content in Продукты on Avokado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///Users/dalpopov/Projects/Avokado/site-source/public/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Автотесты</title>
+      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/autotests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/autotests/</guid>
+      <description>Зачем автотесты нужны бизнесу  Рассказ Авито о том, как автотесты помогают, и сколько они стоят (2019 год)   Процесс написания тестов Какие вообще инструменты для написания автотестов есть сейчас Coming soon… Май 2020
+Почему нативные инструменты - это боль?  Рассказ команды Касперского, какой путь они прошли от Appium до Kaspresso (2019 год)  Kaspresso  Раздел на сайте Абсолютно вся информация о Kaspresso  Как писать тесты для самых маленьких Цикл статей о том, как начать писать тесты, когда у вас за плечами никакого опыта в разработке.</description>
+    </item>
+    
+    <item>
+      <title>Avito Android Infrastructure</title>
+      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/avito-android-infra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/avito-android-infra/</guid>
+      <description>Наши инженеры, которые работают в компании Авито, выложили в open source всю инфраструктуру Android приложений компании.
+Там можно найти:
+ Тестовый фреймворк для UI тестов; Runner для тестов CI/CD плагины для Android Studio/IntelliJ IDEA Плагин для Android Studio/IntelliJ IDEA для различных проверок окружения Советы по ускорению IDE и бенчмарки по замеру ее производительности И многое многое другое  У проекта есть открытая документация, которая активно дополняется и актуализируется.
+Контрибьюторы проекта доступны для связи в Telegram чате на русском и английском языках.</description>
+    </item>
+    
+    <item>
+      <title>Kaspresso</title>
+      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/kaspresso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/kaspresso/</guid>
+      <description>Kaspresso &amp;ndash; это фрейворк для написания UI-тестов, основанный на Espresso and UI Automator. Разработан в Лаборатории Касперского. Он значительно упрощает написание автотестов для Android-приложений и обладет огромных количеством возможностей, но самые важные это:
+ 100% стабильность и надежность; Ускорено выполнение команд Espresso и UI Automator. Для некоторых команд последнего прирост скорости - 10x; Прекрасная читаемость тестов за счет понятного DSL; Невероятный механизм interceptor&#39;ов, позволяющий перехватывать все действия и assert&#39;ы в одном месте; Понятное логгирование; Возможность вызывать ADB-команды; Философия написания автотестов и DSL, следующий этой философии; Быстрый механизм снятия скриншотов; И многое многое другое.</description>
+    </item>
+    
+  </channel>
+</rss>
