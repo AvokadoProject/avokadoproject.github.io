@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avokado</title>
-    <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/</link>
+    <link>https://avokadoteam.github.io/</link>
     <description>Recent content on Avokado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="file:///Users/dalpopov/Projects/Avokado/site-source/public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://avokadoteam.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Автотесты</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/autotests/</link>
+      <link>https://avokadoteam.github.io/products/autotests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/autotests/</guid>
+      <guid>https://avokadoteam.github.io/products/autotests/</guid>
       <description>Зачем автотесты нужны бизнесу  Рассказ Авито о том, как автотесты помогают, и сколько они стоят (2019 год)   Процесс написания тестов Какие вообще инструменты для написания автотестов есть сейчас Coming soon… Май 2020
 Почему нативные инструменты - это боль?  Рассказ команды Касперского, какой путь они прошли от Appium до Kaspresso (2019 год)  Kaspresso  Раздел на сайте Абсолютно вся информация о Kaspresso  Как писать тесты для самых маленьких Цикл статей о том, как начать писать тесты, когда у вас за плечами никакого опыта в разработке.</description>
     </item>
     
     <item>
       <title>Дмитрий Воронин</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/dmitriy-voronin/</link>
+      <link>https://avokadoteam.github.io/team/dmitriy-voronin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/dmitriy-voronin/</guid>
+      <guid>https://avokadoteam.github.io/team/dmitriy-voronin/</guid>
       <description>Работает в Авито с 2014, занимается CI/CD в Android с 2016 года.</description>
     </item>
     
     <item>
       <title>Евгений Мацюк</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/eugene-matsyuk/</link>
+      <link>https://avokadoteam.github.io/team/eugene-matsyuk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/eugene-matsyuk/</guid>
+      <guid>https://avokadoteam.github.io/team/eugene-matsyuk/</guid>
       <description>Подымает с колен разработку и себя в 5 утра. Автор популярных статей и докладов об Android-разработке, организатор разных митапов, воркшопов и академий. Автор архитектурного CookBook. Один из авторов фреймфорка Kaspresso. Верит в светлое будущее с автотестами и обещает рай на Земле вместе с ними.</description>
     </item>
     
     <item>
       <title>Статьи</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/articles/</link>
+      <link>https://avokadoteam.github.io/activities/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/articles/</guid>
+      <guid>https://avokadoteam.github.io/activities/articles/</guid>
       <description>Kaspresso  [EN] Eugene Matsyuk &amp;ndash; Kaspresso: The autotest framework that you have been looking forward to. Part I (ProAndroidDev) [RU] Евгений Мацюк &amp;ndash; Kaspresso: фреймворк для автотестирования, который вы ждали (Хабр)  Avito Android Infrastructure  [EN] Eugene Krivobokov &amp;ndash; Open source: CI/CD and test infrastructure for Android (AvitoTech Medium)  </description>
     </item>
     
     <item>
       <title>Avito Android Infrastructure</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/avito-android-infra/</link>
+      <link>https://avokadoteam.github.io/products/avito-android-infra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/avito-android-infra/</guid>
+      <guid>https://avokadoteam.github.io/products/avito-android-infra/</guid>
       <description>Наши инженеры, которые работают в компании Авито, выложили в open source всю инфраструктуру Android приложений компании.
 Там можно найти:
  Тестовый фреймворк для UI тестов; Runner для тестов CI/CD плагины для Android Studio/IntelliJ IDEA Плагин для Android Studio/IntelliJ IDEA для различных проверок окружения Советы по ускорению IDE и бенчмарки по замеру ее производительности И многое многое другое  У проекта есть открытая документация, которая активно дополняется и актуализируется.
@@ -62,94 +62,94 @@
     
     <item>
       <title>Kaspresso</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/kaspresso/</link>
+      <link>https://avokadoteam.github.io/products/kaspresso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/products/kaspresso/</guid>
+      <guid>https://avokadoteam.github.io/products/kaspresso/</guid>
       <description>Kaspresso &amp;ndash; это фрейворк для написания UI-тестов, основанный на Espresso and UI Automator. Разработан в Лаборатории Касперского. Он значительно упрощает написание автотестов для Android-приложений и обладет огромных количеством возможностей, но самые важные это:
  100% стабильность и надежность; Ускорено выполнение команд Espresso и UI Automator. Для некоторых команд последнего прирост скорости - 10x; Прекрасная читаемость тестов за счет понятного DSL; Невероятный механизм interceptor&#39;ов, позволяющий перехватывать все действия и assert&#39;ы в одном месте; Понятное логгирование; Возможность вызывать ADB-команды; Философия написания автотестов и DSL, следующий этой философии; Быстрый механизм снятия скриншотов; И многое многое другое.</description>
     </item>
     
     <item>
       <title>Даниил Попов</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/daniil-popov/</link>
+      <link>https://avokadoteam.github.io/team/daniil-popov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/daniil-popov/</guid>
+      <guid>https://avokadoteam.github.io/team/daniil-popov/</guid>
       <description>В Android разработке с 2012 года. В настоящее время занимается инфраструктурой Android-проекта в Авито. До этого работал в Mail.ru и преподавал мобильную разработку в Технопарке.</description>
     </item>
     
     <item>
       <title>Евгений Кривобоков</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/eugene-krivobokov/</link>
+      <link>https://avokadoteam.github.io/team/eugene-krivobokov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/eugene-krivobokov/</guid>
+      <guid>https://avokadoteam.github.io/team/eugene-krivobokov/</guid>
       <description>Попал в Android разработку в 2013 году. Через два года перешел в Авито. Постепенно все больше фокусировался на платформенной разработке. Помогал другим инженерам с общими инструментами, сборкой приложения. С 2018 занимается инструментами тестирования и CI.</description>
     </item>
     
     <item>
       <title>Егор Курников</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/egor-kurnikov/</link>
+      <link>https://avokadoteam.github.io/team/egor-kurnikov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/egor-kurnikov/</guid>
+      <guid>https://avokadoteam.github.io/team/egor-kurnikov/</guid>
       <description>В Android-разработке с 2016 года. Android инженер в Yandex, ex-Kaspresky, ex-Sberbank. Один из разработчиков фреймворка Kaspresso.</description>
     </item>
     
     <item>
       <title>Публичные выступления</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/public-speaking/</link>
+      <link>https://avokadoteam.github.io/activities/public-speaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/public-speaking/</guid>
+      <guid>https://avokadoteam.github.io/activities/public-speaking/</guid>
       <description>Kaspresso  [RU] Дмитрий Мовчан, Евгений Мацюк &amp;ndash; Как начать писать автотесты и не сойти с ума (видео) [RU] Егор Курников &amp;ndash; Единственное, что вам нужно для UI-тестирования (видео) [EN] Eugene Matsyuk &amp;ndash; How to start writing autotests and not go crazy (видео)  Avito Android Infrastructure  [RU] Сергей Боиштян &amp;ndash; Мы вынесли инфраструктуру для Android в open source (видео)  </description>
     </item>
     
     <item>
       <title>Руслан Мингалиев</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/ruslan-mingaliev/</link>
+      <link>https://avokadoteam.github.io/team/ruslan-mingaliev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/ruslan-mingaliev/</guid>
+      <guid>https://avokadoteam.github.io/team/ruslan-mingaliev/</guid>
       <description>Занимается разработкой приложений для Android с 2013 года. Senior software engineer в Kaspersky. Один из авторов фреймворка Kaspresso, контрибьютор Avito Android Open Source.</description>
     </item>
     
     <item>
       <title>Сергей Боиштян</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/sergei-boishtian/</link>
+      <link>https://avokadoteam.github.io/team/sergei-boishtian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/team/sergei-boishtian/</guid>
+      <guid>https://avokadoteam.github.io/team/sergei-boishtian/</guid>
       <description>Работает в Авито в команде, которая занимается инфраструктурой CI для Android приложений. Пишет Gradle плагины, framework для тестирования.</description>
     </item>
     
     <item>
       <title>Воркшопы</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/workshops/</link>
+      <link>https://avokadoteam.github.io/activities/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/activities/workshops/</guid>
+      <guid>https://avokadoteam.github.io/activities/workshops/</guid>
       <description>За несколько лет, что мы занимаемся автотестами мобильных приложений, было накоплено огромное количество ценного опыта. Работа над автотестами, соответствующими инструментами и инфраструктурой требует несколько других навыков, нежели привычная продуктовая разработка приложений для iOS и Android. И мы хотим делиться нашим опытом и знаниями. Мы убеждены, что это полезно и для сообщества, и для нас самих. Именно поэтому мы стараемся проводить воркшопы по автотестам, к которым может присоединиться любой желающий.
 Воркшопы:  Воркшоп по автотестам в KasperskyLab, 2019 (видео)  Как начать писать на Kaspresso здесь и сейчас.</description>
     </item>
     
     <item>
       <title>Контакты</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/contact/</link>
+      <link>https://avokadoteam.github.io/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/contact/</guid>
+      <guid>https://avokadoteam.github.io/contact/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
    Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
     </item>
     
     <item>
       <title>О нас</title>
-      <link>file:///Users/dalpopov/Projects/Avokado/site-source/public/about/</link>
+      <link>https://avokadoteam.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///Users/dalpopov/Projects/Avokado/site-source/public/about/</guid>
+      <guid>https://avokadoteam.github.io/about/</guid>
       <description>Кто мы? Мы группа инженеров, которая организовалась по интересам и наш основной интерес &amp;ndash; автотесты для мобильных приложений.
 Каждый из нас, в первую очередь, специалист, посвятивший мобильной разработке огромное количество времени, и за много лет накопивший уникальный технический (и не только технический) опыт. Мы помним еще 2-й Android, мы помним появление фрагментов, помним как выглядел Holo и как Material вытолкнул его со сцены.
 Что мы делаем? В конце 2016 года мы полностью сфокусировались на развитии платформы для автотестирования приложений на iOS и Android.</description>
