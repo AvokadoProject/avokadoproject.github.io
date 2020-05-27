@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Продукты on Avokado Team</title>
-    <link>https://avokadoteam.github.io/products/</link>
+    <link>https://avokadoproject.github.io/products/</link>
     <description>Recent content in Продукты on Avokado Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://avokadoteam.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://avokadoproject.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Avito Android Infrastructure</title>
-      <link>https://avokadoteam.github.io/products/avito-android-infra/</link>
+      <link>https://avokadoproject.github.io/products/avito-android-infra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://avokadoteam.github.io/products/avito-android-infra/</guid>
+      <guid>https://avokadoproject.github.io/products/avito-android-infra/</guid>
       <description>Наши инженеры, которые работают в компании Авито, выложили в open source всю инфраструктуру Android приложений компании.
 Там можно найти:
  Тестовый фреймворк для UI тестов; Runner для тестов CI/CD плагины для Android Studio/IntelliJ IDEA Плагин для Android Studio/IntelliJ IDEA для различных проверок окружения Советы по ускорению IDE и бенчмарки по замеру ее производительности И многое многое другое  У проекта есть открытая документация, которая активно дополняется и актуализируется.
@@ -24,20 +24,20 @@
     
     <item>
       <title>Kaspresso</title>
-      <link>https://avokadoteam.github.io/products/kaspresso/</link>
+      <link>https://avokadoproject.github.io/products/kaspresso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://avokadoteam.github.io/products/kaspresso/</guid>
+      <guid>https://avokadoproject.github.io/products/kaspresso/</guid>
       <description>Kaspresso &amp;ndash; это фрейворк для написания UI-тестов, основанный на Espresso and UI Automator. Разработан в Лаборатории Касперского. Он значительно упрощает написание автотестов для Android-приложений и обладет огромных количеством возможностей, но самые важные это:
  100% стабильность и надежность; Ускорено выполнение команд Espresso и UI Automator. Для некоторых команд последнего прирост скорости - 10x; Прекрасная читаемость тестов за счет понятного DSL; Невероятный механизм interceptor&#39;ов, позволяющий перехватывать все действия и assert&#39;ы в одном месте; Понятное логгирование; Возможность вызывать ADB-команды; Философия написания автотестов и DSL, следующий этой философии; Быстрый механизм снятия скриншотов; И многое многое другое.</description>
     </item>
     
     <item>
       <title>Автотесты</title>
-      <link>https://avokadoteam.github.io/products/autotests/</link>
+      <link>https://avokadoproject.github.io/products/autotests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://avokadoteam.github.io/products/autotests/</guid>
+      <guid>https://avokadoproject.github.io/products/autotests/</guid>
       <description>Coming soon…</description>
     </item>
     
