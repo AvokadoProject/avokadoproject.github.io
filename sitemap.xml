@@ -1,93 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://avokadoproject.github.io/products/avito-android-infra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/products/kaspresso/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/dmitriy-voronin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/eugene-matsyuk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/activities/articles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/products/autotests/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/daniil-popov/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/eugene-krivobokov/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/egor-kurnikov/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/activities/public-speaking/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/ruslan-mingaliev/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/sergei-boishtian/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/activities/workshops/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/404/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/activities/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://avokadoproject.github.io/products/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://avokadoproject.github.io/ru/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://avokadoproject.github.io/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

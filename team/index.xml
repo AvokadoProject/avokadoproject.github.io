@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Команда on Avokado Project</title>
+    <title>Team on Avokado Project</title>
     <link>https://avokadoproject.github.io/team/</link>
-    <description>Recent content in Команда on Avokado Project</description>
+    <description>Recent content in Team on Avokado Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,66 +11,66 @@
     
     
     <item>
-      <title>Дмитрий Воронин</title>
+      <title>Dmitry Voronin</title>
       <link>https://avokadoproject.github.io/team/dmitriy-voronin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/dmitriy-voronin/</guid>
-      <description>Работает в Авито с 2014, занимается CI/CD в Android с 2016 года.</description>
+      <description>With Avito since 2014, has been working on CI/CD in Android since 2016.</description>
     </item>
     
     <item>
-      <title>Евгений Мацюк</title>
+      <title>Eugene Matsyuk</title>
       <link>https://avokadoproject.github.io/team/eugene-matsyuk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/eugene-matsyuk/</guid>
-      <description>Подымает с колен разработку и себя в 5 утра. Автор популярных статей и докладов об Android-разработке, организатор разных митапов, воркшопов и академий. Автор архитектурного CookBook. Один из авторов фреймфорка Kaspresso. Верит в светлое будущее с автотестами и обещает рай на Земле вместе с ними.</description>
+      <description>Stands up at 5 every morning to works hard on development. Author of popular posts and presentations on development in Android, organizer of meetups, workshops, and academies. Author of the architecture CookBook. One of the authors of the Kaspresso framework. Believes that autotests are the future and the promised land.</description>
     </item>
     
     <item>
-      <title>Даниил Попов</title>
+      <title>Daniil Popov</title>
       <link>https://avokadoproject.github.io/team/daniil-popov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/daniil-popov/</guid>
-      <description>В Android разработке с 2012 года. В настоящее время занимается инфраструктурой Android-проекта в Авито. До этого работал в Mail.ru и преподавал мобильную разработку в Технопарке.</description>
+      <description>Has been doing Android development since 2012. Currently working on the infrastructure of the Android project at Avito. Came here from Mail.ru and mobile development teaching at Technopark.</description>
     </item>
     
     <item>
-      <title>Евгений Кривобоков</title>
-      <link>https://avokadoproject.github.io/team/eugene-krivobokov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://avokadoproject.github.io/team/eugene-krivobokov/</guid>
-      <description>Попал в Android разработку в 2013 году. Через два года перешел в Авито. Постепенно все больше фокусировался на платформенной разработке. Помогал другим инженерам с общими инструментами, сборкой приложения. С 2018 занимается инструментами тестирования и CI.</description>
-    </item>
-    
-    <item>
-      <title>Егор Курников</title>
+      <title>Egor Kurnikov</title>
       <link>https://avokadoproject.github.io/team/egor-kurnikov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/egor-kurnikov/</guid>
-      <description>В Android-разработке с 2016 года. Android инженер в Yandex, ex-Kaspresky, ex-Sberbank. Один из разработчиков фреймворка Kaspresso.</description>
+      <description>Has been doing Android development since 2016. Formerly, Android engineer at Yandex, Kaspresky, Sberbank. One of the developers of the Kaspresso framework.</description>
     </item>
     
     <item>
-      <title>Руслан Мингалиев</title>
+      <title>Evgeny Krivobokov</title>
+      <link>https://avokadoproject.github.io/team/eugene-krivobokov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/eugene-krivobokov/</guid>
+      <description>Got into Android development back in 2013. Two years later he joined Avito. Gradually, he got more and more focused on platform development. Evegeny helped other engineers with common tools, app assembly. Since 2018, he has been working on testing and CI tools.</description>
+    </item>
+    
+    <item>
+      <title>Ruslan Mingaliev</title>
       <link>https://avokadoproject.github.io/team/ruslan-mingaliev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/ruslan-mingaliev/</guid>
-      <description>Занимается разработкой приложений для Android с 2013 года. Senior software engineer в Kaspersky. Один из авторов фреймворка Kaspresso, контрибьютор Avito Android Open Source.</description>
+      <description>Has been developing apps for Android since 2013. Formerly, senior software engineer at Kaspersky. One of the authors of the Kaspresso framework, contributor to Avito Android Open Source.</description>
     </item>
     
     <item>
-      <title>Сергей Боиштян</title>
+      <title>Sergey Boishtyan</title>
       <link>https://avokadoproject.github.io/team/sergei-boishtian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avokadoproject.github.io/team/sergei-boishtian/</guid>
-      <description>Работает в Авито в команде, которая занимается инфраструктурой CI для Android приложений. Пишет Gradle плагины, framework для тестирования.</description>
+      <description>At Avito, works in a team responsible for CI infrastructure for Android apps. Writes Gradle plugins and a testing framework.</description>
     </item>
     
   </channel>

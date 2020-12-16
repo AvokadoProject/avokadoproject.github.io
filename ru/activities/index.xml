@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Avokado Project</title>
+    <link>https://avokadoproject.github.io/ru/activities/</link>
+    <description>Recent content in Activities on Avokado Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://avokadoproject.github.io/ru/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Статьи</title>
+      <link>https://avokadoproject.github.io/ru/activities/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/ru/activities/articles/</guid>
+      <description>Kaspresso  🇺🇸 Kaspresso: The autotest framework that you have been looking forward to. Part I (ProAndroidDev)
+Eugene Matsyuk 🇷🇺 Kaspresso: фреймворк для автотестирования, который вы ждали (Хабр)
+Евгений Мацюк  Avito Android Infrastructure  🇺🇸 Open source: CI/CD and test infrastructure for Android (AvitoTech Medium)
+Eugene Krivobokov  </description>
+    </item>
+    
+    <item>
+      <title>Публичные выступления</title>
+      <link>https://avokadoproject.github.io/ru/activities/public-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/ru/activities/public-speaking/</guid>
+      <description>Kaspresso  🇷🇺 Как начать писать автотесты и не сойти с ума (видео)
+Дмитрий Мовчан, Евгений Мацюк 🇷🇺 Единственное, что вам нужно для UI-тестирования (видео)
+Егор Курников 🇺🇸 How to start writing autotests and not go crazy (видео)
+Eugene Matsyuk 🇷🇺 Kaspresso - новое поколение автотестов (запись подкаста)
+Евгений Мацюк, Егор Курников  Avito Android Infrastructure  🇷🇺 Мы вынесли инфраструктуру для Android в open source (видео)
+Сергей Боиштян 🇷🇺 Android инфраструктура Авито в Open Source (запись подкаста)</description>
+    </item>
+    
+    <item>
+      <title>Воркшопы</title>
+      <link>https://avokadoproject.github.io/ru/activities/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/ru/activities/workshops/</guid>
+      <description>За несколько лет, что мы занимаемся автотестами мобильных приложений, было накоплено огромное количество ценного опыта. Работа над автотестами, соответствующими инструментами и инфраструктурой требует несколько других навыков, нежели привычная продуктовая разработка приложений для iOS и Android. И мы хотим делиться нашим опытом и знаниями. Мы убеждены, что это полезно и для сообщества, и для нас самих. Именно поэтому мы стараемся проводить воркшопы по автотестам, к которым может присоединиться любой желающий.
+Воркшопы:  Воркшоп по автотестам в KasperskyLab, 2019 (видео)  Как начать писать на Kaspresso здесь и сейчас.</description>
+    </item>
+    
+  </channel>
+</rss>
