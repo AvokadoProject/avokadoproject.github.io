@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Avokado Project</title>
+    <link>https://avokadoproject.github.io/products/</link>
+    <description>Recent content in Products on Avokado Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://avokadoproject.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avito Android Infrastructure</title>
+      <link>https://avokadoproject.github.io/products/avito-android-infra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/avito-android-infra/</guid>
+      <description>Our engineers working for Avito have made available in open source the entire infrastructure of the company&amp;rsquo;s Android apps.
+There you can find:
+ Test framework for UI tests Test runner CI/CD plugins for Android Studio/IntelliJ IDEA Plugin for Android Studio/IntelliJ IDEA for environment checks IDE speed up tips and performance benchmarks And much more.  The project comes complete with public documentation, which is actively expanded and updated.
+Project contributors are available in Telegram chat in both Russian and English.</description>
+    </item>
+    
+    <item>
+      <title>Kaspresso</title>
+      <link>https://avokadoproject.github.io/products/kaspresso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/kaspresso/</guid>
+      <description>Kaspresso is a UI test framework based on Espresso and UI Automator. Developed by Kaspersky. It greatly simplifies writing autotests for Android apps and offers multiple features, where the most important are:
+ 100% stability and reliability Faster execution of Espresso and UI Automator commands. For some commands in the latter, the speed increase is 10x Excellent test readability thanks to a readily comprehensible DSL An incredible interceptor mechanism allowing to intercept all actions and asserts in one place Clear logging Support for ADB calls Autotest writing philosophy and a DSL compliant with this philosophy Fast screenshot tool And much more.</description>
+    </item>
+    
+    <item>
+      <title>Autotests</title>
+      <link>https://avokadoproject.github.io/products/autotests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/autotests/</guid>
+      <description>Coming soon…</description>
+    </item>
+    
+  </channel>
+</rss>

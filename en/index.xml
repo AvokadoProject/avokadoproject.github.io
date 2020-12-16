@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avokado on Avokado Project</title>
+    <link>https://avokadoproject.github.io/</link>
+    <description>Recent content in Avokado on Avokado Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://avokadoproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avito Android Infrastructure</title>
+      <link>https://avokadoproject.github.io/products/avito-android-infra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/avito-android-infra/</guid>
+      <description>Our engineers working for Avito have made available in open source the entire infrastructure of the company&amp;rsquo;s Android apps.
+There you can find:
+ Test framework for UI tests Test runner CI/CD plugins for Android Studio/IntelliJ IDEA Plugin for Android Studio/IntelliJ IDEA for environment checks IDE speed up tips and performance benchmarks And much more.  The project comes complete with public documentation, which is actively expanded and updated.
+Project contributors are available in Telegram chat in both Russian and English.</description>
+    </item>
+    
+    <item>
+      <title>Dmitry Voronin</title>
+      <link>https://avokadoproject.github.io/team/dmitriy-voronin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/dmitriy-voronin/</guid>
+      <description>With Avito since 2014, has been working on CI/CD in Android since 2016.</description>
+    </item>
+    
+    <item>
+      <title>Eugene Matsyuk</title>
+      <link>https://avokadoproject.github.io/team/eugene-matsyuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/eugene-matsyuk/</guid>
+      <description>Stands up at 5 every morning to works hard on development. Author of popular posts and presentations on development in Android, organizer of meetups, workshops, and academies. Author of the architecture CookBook. One of the authors of the Kaspresso framework. Believes that autotests are the future and the promised land.</description>
+    </item>
+    
+    <item>
+      <title>Kaspresso</title>
+      <link>https://avokadoproject.github.io/products/kaspresso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/kaspresso/</guid>
+      <description>Kaspresso is a UI test framework based on Espresso and UI Automator. Developed by Kaspersky. It greatly simplifies writing autotests for Android apps and offers multiple features, where the most important are:
+ 100% stability and reliability Faster execution of Espresso and UI Automator commands. For some commands in the latter, the speed increase is 10x Excellent test readability thanks to a readily comprehensible DSL An incredible interceptor mechanism allowing to intercept all actions and asserts in one place Clear logging Support for ADB calls Autotest writing philosophy and a DSL compliant with this philosophy Fast screenshot tool And much more.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://avokadoproject.github.io/activities/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/articles/</guid>
+      <description>Kaspresso  🇺🇸 Kaspresso: The autotest framework that you have been looking forward to. Part I (Medium)
+Eugene Matsyuk 🇷🇺 Kaspresso: The autotest framework you&amp;rsquo;ve been looking forward to (Habr)
+Eugene Matsyuk  Avito Android Infrastructure  🇺🇸 Open source: CI/CD and test infrastructure for Android (AvitoTech Medium)
+Eugene Krivobokov  Autotests  🇷🇺 Autotests on Android. The entire picture (Habr)
+Eugene Matsyuk 🇷🇺 What to write Android UI tests on (Habr)</description>
+    </item>
+    
+    <item>
+      <title>Autotests</title>
+      <link>https://avokadoproject.github.io/products/autotests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/products/autotests/</guid>
+      <description>Coming soon…</description>
+    </item>
+    
+    <item>
+      <title>Daniil Popov</title>
+      <link>https://avokadoproject.github.io/team/daniil-popov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/daniil-popov/</guid>
+      <description>Has been doing Android development since 2012. Currently working on the infrastructure of the Android project at Avito. Came here from Mail.ru and mobile development teaching at Technopark.</description>
+    </item>
+    
+    <item>
+      <title>Egor Kurnikov</title>
+      <link>https://avokadoproject.github.io/team/egor-kurnikov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/egor-kurnikov/</guid>
+      <description>Has been doing Android development since 2016. Formerly, Android engineer at Yandex, Kaspresky, Sberbank. One of the developers of the Kaspresso framework.</description>
+    </item>
+    
+    <item>
+      <title>Evgeny Krivobokov</title>
+      <link>https://avokadoproject.github.io/team/eugene-krivobokov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/eugene-krivobokov/</guid>
+      <description>Got into Android development back in 2013. Two years later he joined Avito. Gradually, he got more and more focused on platform development. Evegeny helped other engineers with common tools, app assembly. Since 2018, he has been working on testing and CI tools.</description>
+    </item>
+    
+    <item>
+      <title>Public talks</title>
+      <link>https://avokadoproject.github.io/activities/public-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/public-speaking/</guid>
+      <description>Kaspresso  🇷🇺 How to start writing autotests and not go crazy (video)
+Dmitry Movchan, Eugene Matsyuk 🇷🇺 The only thing you need for UI testing (video)
+Egor Kurnikov 🇺🇸 How to start writing autotests and not go crazy (video)
+Eugene Matsyuk 🇷🇺 Kaspresso — a new generation of autotests (recorded podcast)
+Eugene Matsyuk, Egor Kurnikov  Avito Android Infrastructure  🇷🇺 We have moved Android infrastructure into open source (video)</description>
+    </item>
+    
+    <item>
+      <title>Ruslan Mingaliev</title>
+      <link>https://avokadoproject.github.io/team/ruslan-mingaliev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/ruslan-mingaliev/</guid>
+      <description>Has been developing apps for Android since 2013. Formerly, senior software engineer at Kaspersky. One of the authors of the Kaspresso framework, contributor to Avito Android Open Source.</description>
+    </item>
+    
+    <item>
+      <title>Sergey Boishtyan</title>
+      <link>https://avokadoproject.github.io/team/sergei-boishtian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/team/sergei-boishtian/</guid>
+      <description>At Avito, works in a team responsible for CI infrastructure for Android apps. Writes Gradle plugins and a testing framework.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://avokadoproject.github.io/activities/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/workshops/</guid>
+      <description>Over the several years that we have been doing autotests for mobile apps, a great deal of valuable experience has been accumulated. Working on autotests, related tools and infrastructure requires different skills than regular product development of iOS and Android apps. And we want to share our experience and knowledge. We are convinced that this is beneficial for the community and for ourselves. That is why we aim to conduct autotest workshops that anyone can join.</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>https://avokadoproject.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/about/</guid>
+      <description>Hi all,
+We are announcing the launch of open-source cooperation between Avito and Kaspersky — Avokado. This is a project whose main goal is to develop tools that will make life easier for every mobile developer. We truly believe in synergy and that 1+1 can be more than 2. We are convinced that a team with a common goal can achieve more than a lone individual. And that it is worth sharing experience, knowledge, and tools, because in return you receive more than you give.</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://avokadoproject.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/contact/</guid>
+      <description>Avokado Russian-language chat
+Event announcements in Russian
+Feed
+Kaspresso Russian-language chat
+English-language chat
+Avito Infrastructure Russian-language chat
+English-language chat</description>
+    </item>
+    
+  </channel>
+</rss>

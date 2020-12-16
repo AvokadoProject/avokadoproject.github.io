@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Avokado Project</title>
+    <link>https://avokadoproject.github.io/activities/</link>
+    <description>Recent content in Activities on Avokado Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://avokadoproject.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://avokadoproject.github.io/activities/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/articles/</guid>
+      <description>Kaspresso  🇺🇸 Kaspresso: The autotest framework that you have been looking forward to. Part I (Medium)
+Eugene Matsyuk 🇷🇺 Kaspresso: The autotest framework you&amp;rsquo;ve been looking forward to (Habr)
+Eugene Matsyuk  Avito Android Infrastructure  🇺🇸 Open source: CI/CD and test infrastructure for Android (AvitoTech Medium)
+Eugene Krivobokov  Autotests  🇷🇺 Autotests on Android. The entire picture (Habr)
+Eugene Matsyuk 🇷🇺 What to write Android UI tests on (Habr)</description>
+    </item>
+    
+    <item>
+      <title>Public talks</title>
+      <link>https://avokadoproject.github.io/activities/public-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/public-speaking/</guid>
+      <description>Kaspresso  🇷🇺 How to start writing autotests and not go crazy (video)
+Dmitry Movchan, Eugene Matsyuk 🇷🇺 The only thing you need for UI testing (video)
+Egor Kurnikov 🇺🇸 How to start writing autotests and not go crazy (video)
+Eugene Matsyuk 🇷🇺 Kaspresso — a new generation of autotests (recorded podcast)
+Eugene Matsyuk, Egor Kurnikov  Avito Android Infrastructure  🇷🇺 We have moved Android infrastructure into open source (video)</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://avokadoproject.github.io/activities/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avokadoproject.github.io/activities/workshops/</guid>
+      <description>Over the several years that we have been doing autotests for mobile apps, a great deal of valuable experience has been accumulated. Working on autotests, related tools and infrastructure requires different skills than regular product development of iOS and Android apps. And we want to share our experience and knowledge. We are convinced that this is beneficial for the community and for ourselves. That is why we aim to conduct autotest workshops that anyone can join.</description>
+    </item>
+    
+  </channel>
+</rss>
